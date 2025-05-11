@@ -1,7 +1,7 @@
 {
     "Siti": {
            "StreamingCommunity": {
-               "url": "https://streamingcommunity.paris",
+               "url": "https://streamingcommunity.ovh",
                "SC_ForwardProxy": "0",
                "SC_PROXY": "0",
                "VX_ForwardProxy": "0",
@@ -30,7 +30,7 @@
               "enabled":"1"
           },
           "CB01":{
-              "url":"https://cb01new.loan",
+              "url":"https://cb01new.uno",
               "CB_PROXY":"0",
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
@@ -38,8 +38,7 @@
               "enabled":"1"
           },
           "DDLStream":{
-              "url":"https://ddlstreamitaly.co","ki"{
-py,
+              "url":"https://ddlstreamitaly.co",
  "cookies": {
  "ips4_device_key": 
  "ips4_IPSSessionFront": 
@@ -67,13 +66,13 @@ py,
               "OST_PROXY":"0"
           },
           "AnimeWorld":{
-              "url":"https://www.animeworld.so",
+              "url":"https://www.animeworld.ac",
               "enabled":"1",
               "AW_ForwardProxy":"0",
               "AW_PROXY":0"
           },
           "SkyStreaming":{
-              "url":"https://skystreaming.watch",
+              "url":"https://skystreaming.download",
               "enabled":"1"
           },
           "DaddyLiveHD":{
