@@ -39,13 +39,13 @@
           },
           "DDLStream":{
               "url":"https://ddlstreamitaly.co",
- "cookies": {
- "ips4_device_key": null,
- "ips4_IPSSessionFront": null,
- "ips4_member_id": null,
- "ips4_login_key": null,
- },
- "enabled": "1"
+              "cookies": {
+                  "ips4_device_key": null,
+                  "ips4_IPSSessionFront": null,
+                  "ips4_member_id": null,
+                 "ips4_login_key": null,
+                 },
+              "enabled": "1"
           },
           "Guardaserie":{
               "url":"https://guardaserietv.mom",
